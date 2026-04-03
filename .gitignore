@@ -42,3 +42,20 @@ node_modules/
 *.zip
 *.rar
 *.7z
+
+# DayZ server binaries
+*.exe
+*.dll
+
+# Battleye
+battleye/
+
+# Logs
+logs/
+
+# Steam files
+steam_*.txt
+steam_*.dll
+
+# Server junk
+*.log
