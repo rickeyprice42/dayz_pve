@@ -1,0 +1,31 @@
+
+
+[2026-03-30 21:33:54] Client version: no bootstrapper found
+[2026-03-30 21:33:54] Failed to read store 'install' from 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf.tmp'
+[2026-03-30 21:33:55] Flushed store 'install' to 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+[2026-03-30 21:33:57] Flushed store 'install' to 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+[2026-03-30 21:33:58] Flushed store 'install' to 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+
+
+[2026-03-30 21:41:13] Client version: no bootstrapper found
+[2026-03-30 21:41:13] Loaded store 'install' from 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf' successfully
+[2026-03-30 21:41:15] Flushed store 'install' to 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+
+
+[2026-03-30 21:48:25] Client version: no bootstrapper found
+[2026-03-30 21:48:25] Loaded store 'install' from 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf' successfully
+[2026-03-30 21:48:28] Flushed store 'install' to 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+
+
+[2026-03-30 21:51:12] Client version: no bootstrapper found
+[2026-03-30 21:51:12] Loaded store 'install' from 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf' successfully
+
+
+[2026-03-31 22:40:43] Client version: no bootstrapper found
+[2026-03-31 22:40:43] Loaded store 'install' from 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf' successfully
+[2026-03-31 22:40:48] Flushed store 'install' to 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+
+
+[2026-04-02 21:44:10] Client version: no bootstrapper found
+[2026-04-02 21:44:10] Loaded store 'install' from 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf' successfully
+[2026-04-02 21:44:13] Flushed store 'install' to 'D:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'

@@ -1,0 +1,59 @@
+# DayZ Server Mod List (Minimal Core)
+
+# =========================
+
+# CORE
+
+# =========================
+
+CF
+VPPAdminTools
+
+# =========================
+
+# EXPANSION (BASE ONLY)
+
+# =========================
+
+DayZ-Expansion-Core
+DayZ-Expansion-Navigation
+DayZ-Expansion-Economy
+
+# =========================
+
+# QUALITY OF LIFE
+
+# =========================
+
+VanillaPlusPlusMap
+GlobalChat
+QuickItemMove
+
+# =========================
+
+# GAMEPLAY
+
+# =========================
+
+CJ187-LootChest
+Bed-Respawning
+
+# =========================
+
+# ECONOMY
+
+# =========================
+
+AdvancedBanking
+
+# =========================
+
+# NOTES
+
+# =========================
+
+# Do NOT add new mods without testing
+
+# Avoid heavy mods (AI, vehicles, large weapon packs)
+
+# Keep server optimized for 60 players
