@@ -7,6 +7,7 @@
 # =========================
 
 CF
+Dabs Framework (https://steamcommunity.com/sharedfiles/filedetails/?id=2545327648)
 VPPAdminTools
 
 # =========================
@@ -14,10 +15,8 @@ VPPAdminTools
 # EXPANSION (BASE ONLY)
 
 # =========================
-
-DayZ-Expansion-Core
-DayZ-Expansion-Navigation
-DayZ-Expansion-Economy
+DayZ-Expansion-Licensed (https://steamcommunity.com/sharedfiles/filedetails/?id=2116157322)
+DayZ-Expansion-Bundle (https://steamcommunity.com/sharedfiles/filedetails/?id=2572331007)
 
 # =========================
 
@@ -25,9 +24,10 @@ DayZ-Expansion-Economy
 
 # =========================
 
-VanillaPlusPlusMap
-GlobalChat
+Item Info (https://steamcommunity.com/sharedfiles/filedetails/?id=2888277755)
+TTL Classname Extractor (https://steamcommunity.com/sharedfiles/filedetails/?id=3667513314)
 QuickItemMove
+Bullet Stacking - More Ammo (https://steamcommunity.com/sharedfiles/filedetails/?id=2951379570)
 
 # =========================
 
@@ -35,8 +35,8 @@ QuickItemMove
 
 # =========================
 
-CJ187-LootChest
-Bed-Respawning
+CJ187-LootChest (https://steamcommunity.com/sharedfiles/filedetails/?id=2345073965)
+
 
 # =========================
 
@@ -44,7 +44,7 @@ Bed-Respawning
 
 # =========================
 
-AdvancedBanking
+Imports From Tarkov (https://steamcommunity.com/sharedfiles/filedetails/?id=3520543676)
 
 # =========================
 
