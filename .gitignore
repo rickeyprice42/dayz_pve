@@ -1,0 +1,58 @@
+# DayZ server install/runtime artifacts
+DayZServer_x64.exe
+*.dll
+*.so
+*.pdb
+steam_appid.txt
+steam_*.dll
+tier0_s64.dll
+vstdlib_s64.dll
+
+# Base game content distributed by Steam
+addons/
+dta/
+sakhal/
+
+# Mods and Workshop content
+@*/
+!@types/
+keys/
+
+# BattlEye and generated config/runtime files
+battleye/
+config/config.vdf
+
+# Logs, dumps, crash reports
+logs/
+Profiles/
+*.ADM
+*.RPT
+*.mdmp
+*.log
+error.log
+warning_*.log
+script_*.log
+crash_*.log
+appinfo_log.txt
+configstore_log.txt
+connection_log*.txt
+content_log.txt
+stats_log.txt
+system*.txt
+transport_client.txt
+
+# Persistence / cache / temporary files
+*.tmp
+*.bak
+*.cache
+*.zip
+*.rar
+*.7z
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Old nested repo/template; keep root repo clean
+dayz_pve/
