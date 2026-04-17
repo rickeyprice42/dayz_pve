@@ -24,7 +24,6 @@ config/config.vdf
 
 # Logs, dumps, crash reports
 logs/
-Profiles/
 *.ADM
 *.RPT
 *.mdmp
@@ -45,9 +44,19 @@ transport_client.txt
 *.tmp
 *.bak
 *.cache
+*.bin
 *.zip
 *.rar
 *.7z
+
+# Keep Profiles configs, but ignore runtime/cache data inside it
+Profiles/DataCache/
+Profiles/EditorLog/
+Profiles/EventManagerLog/
+Profiles/WebApiLog/
+Profiles/Users/
+Profiles/VPPAdminTools/Logging/
+Profiles/ExpansionMod/**/PlayerData/
 
 # OS / editor noise
 .DS_Store

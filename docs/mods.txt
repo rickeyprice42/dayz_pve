@@ -1,0 +1,79 @@
+# DayZ Server Mod List (Minimal Core)
+
+# =========================
+
+# CORE
+
+# =========================
+
+CF
+VPPAdminTools
+Community-Online-Tools
+
+# =========================
+
+# EXPANSION (BASE ONLY)
+
+# =========================
+
+DayZ-Expansion-Bundle
+DayZ-Expansion-Licensed
+Dabs Framework
+DayZ Editor Loader
+
+# =========================
+
+# QUALITY OF LIFE
+
+# =========================
+GraveCross
+QuickMoveItemsByCategory
+ItemInfo
+TTL Classname Extractor
+Bullet Stacking - More Ammo
+
+# =========================
+
+# GAMEPLAY
+
+# =========================
+
+CJ187-LootChest
+Bed-Respawning(soon)
+Imports From Tarkov
+GZ Equipment
+Tactical Flava
+
+# =========================
+
+# ECONOMY
+
+# =========================
+
+Money Ruble
+
+# =========================
+
+# NOTES (ЗДЕСь НАДО ПИСАТЬ ЧТО НЕОБХОДИМО СДЕЛАТЬ, БЛИЖАЙШИЕ ПЛАНЫ И ФИКСЫ)
+
+# 
+
+# =========================
+
+# Не добавлять моды без тестов
+
+# Говорить что меняется, писать подробный commit
+
+# Не лезть в код модов, менять только конфиги
+
+# КАК ЗАЛИТЬ ИЗМЕНЕНИЯ НА GitHub
+# 1. Нажимаем в VS Code: Terminal - New Terminal (должна быть открыта папка с сервером)
+# 2. Пишем следующие команды:
+#       1) git init (пишется один раз, после первой загрузки не надо больше это писать)
+#       2) git add .
+#       3) git commit -m "ЗДЕСЬ ПИШЕТСЯ ПОДРОБНОЕ ОБЬЯСНЕНИЕ ЧТО ПОМЕНЯЛОСЬ"
+#       4) git branch -M main
+#       5) git push -f origin main
+# 3. Проверяем изменения на сайте
+
+# Keep server optimized for 60 players

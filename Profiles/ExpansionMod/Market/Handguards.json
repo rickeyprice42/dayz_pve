@@ -1,0 +1,595 @@
+﻿{
+    "m_Version":  12,
+    "DisplayName":  "#STR_EXPANSION_MARKET_CATEGORY_HANDGUARDS",
+    "Icon":  "Deliver",
+    "Color":  "FBFCFEFF",
+    "IsExchange":  0,
+    "InitStockPercent":  75.0,
+    "Items":  [
+                  {
+                      "ClassName":  "mp5_plastichndgrd",
+                      "MaxPriceThreshold":  3010,
+                      "MinPriceThreshold":  1805,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "mp5_railhndgrd",
+                      "MaxPriceThreshold":  3010,
+                      "MinPriceThreshold":  1805,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "ak74_hndgrd",
+                      "MaxPriceThreshold":  2985,
+                      "MinPriceThreshold":  1790,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "ak_woodhndgrd",
+                      "MaxPriceThreshold":  2985,
+                      "MinPriceThreshold":  1790,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "ak_railhndgrd",
+                      "MaxPriceThreshold":  2985,
+                      "MinPriceThreshold":  1790,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "ak_plastichndgrd",
+                      "MaxPriceThreshold":  2985,
+                      "MinPriceThreshold":  1790,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "m4_plastichndgrd",
+                      "MaxPriceThreshold":  2985,
+                      "MinPriceThreshold":  1790,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "m4_rishndgrd",
+                      "MaxPriceThreshold":  2985,
+                      "MinPriceThreshold":  1790,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "m4_mphndgrd",
+                      "MaxPriceThreshold":  2985,
+                      "MinPriceThreshold":  1790,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_AFG_MLOCK_Grip_Black",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_AK_B33Receiver",
+                      "MaxPriceThreshold":  2200,
+                      "MinPriceThreshold":  1320,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_AK_KGBMG47PistolGrip_FDE",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_AK_MOEPistolGrip_Black",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_AK_Tactica_Tula10000Receiver",
+                      "MaxPriceThreshold":  2200,
+                      "MinPriceThreshold":  1320,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_AK_TAPCOPistolGrip_Black",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_AK_TAPCOPistolGrip_FDE",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_AK_ZenitB30B31Hndgrd_RIS",
+                      "MaxPriceThreshold":  1800,
+                      "MinPriceThreshold":  1080,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_AK_ZenitRK3PistolGrip",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_AKS74U_CAAHndgrd_RIS",
+                      "MaxPriceThreshold":  1800,
+                      "MinPriceThreshold":  1080,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_AR10_LancerHndgrd_MLOCK",
+                      "MaxPriceThreshold":  1800,
+                      "MinPriceThreshold":  1080,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_BCM_MLOCK_Grip_Black",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_BCM_MLOCK_Grip_FDE",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_M14_Adapter",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_M4_DD12Hndgrd_RIS_FDE",
+                      "MaxPriceThreshold":  1800,
+                      "MinPriceThreshold":  1080,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_M4_DDFSPHndgrd_RIS_FDE",
+                      "MaxPriceThreshold":  1800,
+                      "MinPriceThreshold":  1080,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_M4_MIADPistolGrip_FDE",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_M4_MOEPistolGrip_Black",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_M4_MOEPistolGrip_FDE",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_M4_OMRGPistolGrip_Black",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_M4_OMRGPistolGrip_FDE",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_M4_SMR13Hndgrd_MLOCK_FDE",
+                      "MaxPriceThreshold":  1800,
+                      "MinPriceThreshold":  1080,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_M4_SMR9Hndgrd_MLOCK_FDE",
+                      "MaxPriceThreshold":  1800,
+                      "MinPriceThreshold":  1080,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_M4_TDSPistolGrip",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_OTs_14_Groza_Barrel_Grip",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_RVG_RIS_Grip_Black",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_RVG_RIS_Grip_FDE",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_SCAR_MREXHndgrd_FDE",
+                      "MaxPriceThreshold":  1800,
+                      "MinPriceThreshold":  1080,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_SCAR_StndHndgrd",
+                      "MaxPriceThreshold":  1400,
+                      "MinPriceThreshold":  840,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "TF_ZenitRK1B25U_RIS_Grip",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  }
+              ]
+}

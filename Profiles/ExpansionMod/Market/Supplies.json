@@ -1,0 +1,1289 @@
+﻿{
+    "m_Version":  12,
+    "DisplayName":  "#STR_EXPANSION_MARKET_CATEGORY_SUPPLIES",
+    "Icon":  "Deliver",
+    "Color":  "FBFCFEFF",
+    "IsExchange":  0,
+    "InitStockPercent":  75.0,
+    "Items":  [
+                  {
+                      "ClassName":  "paper",
+                      "MaxPriceThreshold":  4,
+                      "MinPriceThreshold":  2,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "pen_black",
+                      "MaxPriceThreshold":  570,
+                      "MinPriceThreshold":  340,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+                                       "pen_blue",
+                                       "pen_green",
+                                       "pen_red"
+                                   ]
+                  },
+                  {
+                      "ClassName":  "rope",
+                      "MaxPriceThreshold":  750,
+                      "MinPriceThreshold":  450,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "metalwire",
+                      "MaxPriceThreshold":  750,
+                      "MinPriceThreshold":  450,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "epoxyputty",
+                      "MaxPriceThreshold":  1015,
+                      "MinPriceThreshold":  610,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "ducttape",
+                      "MaxPriceThreshold":  545,
+                      "MinPriceThreshold":  330,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "pot",
+                      "MaxPriceThreshold":  475,
+                      "MinPriceThreshold":  285,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "handcuffkeys",
+                      "MaxPriceThreshold":  1075,
+                      "MinPriceThreshold":  645,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "handcuffs",
+                      "MaxPriceThreshold":  1025,
+                      "MinPriceThreshold":  615,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "netting",
+                      "MaxPriceThreshold":  830,
+                      "MinPriceThreshold":  495,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "burlapsack",
+                      "MaxPriceThreshold":  750,
+                      "MinPriceThreshold":  450,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "woodenplank",
+                      "MaxPriceThreshold":  250,
+                      "MinPriceThreshold":  50,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "metalplate",
+                      "MaxPriceThreshold":  505,
+                      "MinPriceThreshold":  305,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "smallgascanister",
+                      "MaxPriceThreshold":  210,
+                      "MinPriceThreshold":  125,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "mediumgascanister",
+                      "MaxPriceThreshold":  210,
+                      "MinPriceThreshold":  125,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "largegascanister",
+                      "MaxPriceThreshold":  210,
+                      "MinPriceThreshold":  125,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "tripod",
+                      "MaxPriceThreshold":  895,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "beartrap",
+                      "MaxPriceThreshold":  1490,
+                      "MinPriceThreshold":  895,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "bear_beige",
+                      "MaxPriceThreshold":  355,
+                      "MinPriceThreshold":  215,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+                                       "bear_dark",
+                                       "bear_pink",
+                                       "bear_white"
+                                   ]
+                  },
+                  {
+                      "ClassName":  "nailbox",
+                      "MaxPriceThreshold":  750,
+                      "MinPriceThreshold":  450,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "nail",
+                      "MaxPriceThreshold":  10,
+                      "MinPriceThreshold":  5,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "barbedwire",
+                      "MaxPriceThreshold":  825,
+                      "MinPriceThreshold":  495,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "fabric",
+                      "MaxPriceThreshold":  500,
+                      "MinPriceThreshold":  300,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "camonet",
+                      "MaxPriceThreshold":  2100,
+                      "MinPriceThreshold":  1260,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "hescobox",
+                      "MaxPriceThreshold":  2250,
+                      "MinPriceThreshold":  1300,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "powergenerator",
+                      "MaxPriceThreshold":  455,
+                      "MinPriceThreshold":  275,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "expansionlumber1",
+                      "MaxPriceThreshold":  300,
+                      "MinPriceThreshold":  50,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "expansionlumber1_5",
+                      "MaxPriceThreshold":  300,
+                      "MinPriceThreshold":  50,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "expansionlumber3",
+                      "MaxPriceThreshold":  300,
+                      "MinPriceThreshold":  50,
+                      "SellPricePercent":  -1.0,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_BTC",
+                      "MaxPriceThreshold":  12000,
+                      "MinPriceThreshold":  7200,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Capacitors",
+                      "MaxPriceThreshold":  700,
+                      "MinPriceThreshold":  420,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Cat",
+                      "MaxPriceThreshold":  4500,
+                      "MinPriceThreshold":  2700,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_CircuitBoard",
+                      "MaxPriceThreshold":  1300,
+                      "MinPriceThreshold":  780,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_COFDM",
+                      "MaxPriceThreshold":  8200,
+                      "MinPriceThreshold":  4920,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_CPU",
+                      "MaxPriceThreshold":  700,
+                      "MinPriceThreshold":  420,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_CPUFan",
+                      "MaxPriceThreshold":  700,
+                      "MinPriceThreshold":  420,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Diary",
+                      "MaxPriceThreshold":  450,
+                      "MinPriceThreshold":  270,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_EC",
+                      "MaxPriceThreshold":  700,
+                      "MinPriceThreshold":  420,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_ElectricMotor",
+                      "MaxPriceThreshold":  2200,
+                      "MinPriceThreshold":  1320,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_ESLamp",
+                      "MaxPriceThreshold":  700,
+                      "MinPriceThreshold":  420,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_GasAnalyzer",
+                      "MaxPriceThreshold":  2200,
+                      "MinPriceThreshold":  1320,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_GPCoin",
+                      "MaxPriceThreshold":  5000,
+                      "MinPriceThreshold":  3000,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_GPhone",
+                      "MaxPriceThreshold":  1200,
+                      "MinPriceThreshold":  720,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_GPhoneX",
+                      "MaxPriceThreshold":  1800,
+                      "MinPriceThreshold":  1080,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_GPSAmplifier",
+                      "MaxPriceThreshold":  3200,
+                      "MinPriceThreshold":  1920,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_GPU",
+                      "MaxPriceThreshold":  9000,
+                      "MinPriceThreshold":  5400,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Gyroscope",
+                      "MaxPriceThreshold":  3200,
+                      "MinPriceThreshold":  1920,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_HDD",
+                      "MaxPriceThreshold":  1800,
+                      "MinPriceThreshold":  1080,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Helix",
+                      "MaxPriceThreshold":  700,
+                      "MinPriceThreshold":  420,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Intelligence",
+                      "MaxPriceThreshold":  9500,
+                      "MinPriceThreshold":  5700,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_IridiumModule",
+                      "MaxPriceThreshold":  5000,
+                      "MinPriceThreshold":  3000,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Kektape",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_LBulb",
+                      "MaxPriceThreshold":  500,
+                      "MinPriceThreshold":  300,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_LCD",
+                      "MaxPriceThreshold":  1400,
+                      "MinPriceThreshold":  840,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_LCDBroken",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Lens",
+                      "MaxPriceThreshold":  1200,
+                      "MinPriceThreshold":  720,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Lion",
+                      "MaxPriceThreshold":  4500,
+                      "MinPriceThreshold":  2700,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_LootLord",
+                      "MaxPriceThreshold":  5500,
+                      "MinPriceThreshold":  3300,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Magnet",
+                      "MaxPriceThreshold":  1400,
+                      "MinPriceThreshold":  840,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_MBController",
+                      "MaxPriceThreshold":  1800,
+                      "MinPriceThreshold":  1080,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_MCConverter",
+                      "MaxPriceThreshold":  3200,
+                      "MinPriceThreshold":  1920,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_MController1",
+                      "MaxPriceThreshold":  3200,
+                      "MinPriceThreshold":  1920,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_MGT",
+                      "MaxPriceThreshold":  3200,
+                      "MinPriceThreshold":  1920,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_MilitaryBoard",
+                      "MaxPriceThreshold":  3600,
+                      "MinPriceThreshold":  2160,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_MilitaryCable",
+                      "MaxPriceThreshold":  3600,
+                      "MinPriceThreshold":  2160,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_MilitaryPFilter",
+                      "MaxPriceThreshold":  3600,
+                      "MinPriceThreshold":  2160,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_PhasedArray",
+                      "MaxPriceThreshold":  8200,
+                      "MinPriceThreshold":  4920,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_PowerCord",
+                      "MaxPriceThreshold":  700,
+                      "MinPriceThreshold":  420,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_PSU",
+                      "MaxPriceThreshold":  1400,
+                      "MinPriceThreshold":  840,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_RAM",
+                      "MaxPriceThreshold":  700,
+                      "MinPriceThreshold":  420,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Relay",
+                      "MaxPriceThreshold":  1400,
+                      "MinPriceThreshold":  840,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_RFIDReader",
+                      "MaxPriceThreshold":  8200,
+                      "MinPriceThreshold":  4920,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_SAS",
+                      "MaxPriceThreshold":  3200,
+                      "MinPriceThreshold":  1920,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_SDiary",
+                      "MaxPriceThreshold":  600,
+                      "MinPriceThreshold":  360,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Sparkplug",
+                      "MaxPriceThreshold":  1200,
+                      "MinPriceThreshold":  720,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_SSD",
+                      "MaxPriceThreshold":  1800,
+                      "MinPriceThreshold":  1080,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Tetriz",
+                      "MaxPriceThreshold":  9000,
+                      "MinPriceThreshold":  5400,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Toughbook",
+                      "MaxPriceThreshold":  3600,
+                      "MinPriceThreshold":  2160,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Ultralink",
+                      "MaxPriceThreshold":  9000,
+                      "MinPriceThreshold":  5400,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_USBAdapter",
+                      "MaxPriceThreshold":  900,
+                      "MinPriceThreshold":  540,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_UVLamp",
+                      "MaxPriceThreshold":  1400,
+                      "MinPriceThreshold":  840,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Virtex",
+                      "MaxPriceThreshold":  9000,
+                      "MinPriceThreshold":  5400,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_VPX",
+                      "MaxPriceThreshold":  9000,
+                      "MinPriceThreshold":  5400,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Barter_Wires",
+                      "MaxPriceThreshold":  700,
+                      "MinPriceThreshold":  420,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  },
+                  {
+                      "ClassName":  "IFT_Quest_HDD",
+                      "MaxPriceThreshold":  2500,
+                      "MinPriceThreshold":  1500,
+                      "SellPricePercent":  -1,
+                      "MaxStockThreshold":  100,
+                      "MinStockThreshold":  1,
+                      "QuantityPercent":  -1,
+                      "SpawnAttachments":  [
+
+                                           ],
+                      "Variants":  [
+
+                                   ]
+                  }
+              ]
+}

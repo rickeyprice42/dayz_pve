@@ -1,0 +1,11 @@
+IFT_Barter_BTC
+IFT_Barter_GPU
+IFT_Barter_Lion
+IFT_Barter_Cat
+IFT_Barter_Toughbook
+IFT_Barter_LootLord
+IFT_Barter_Tetriz
+IFT_Barter_GPCoin
+IFT_Barter_Intelligence
+IFT_Barter_LEDX
+IFT_Barter_LEDX_USA
