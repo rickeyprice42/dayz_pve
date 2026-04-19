@@ -1,7 +1,7 @@
 @echo off
 :start
 ::Server name
-set serverName=Jims DayZ server
+set serverName=Grimhold
 ::Server files location
 set serverLocation="D:\SteamLibrary\steamapps\common\DayZServer"
 ::Server Port
@@ -16,7 +16,7 @@ title %serverName% batch
 cd "%serverLocation%"
 echo (%time%) %serverName% started.
 ::Launch parameters (edit end: -config=|-port=|-profiles=|-doLogs|-adminLog|-netLog|-freezeCheck|-filePatching|-BEpath=|-cpuCount=)
-start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck "-BEpath=D:\SteamLibrary\steamapps\common\DayZServer\battleye" "-profiles=D:\SteamLibrary\steamapps\common\DayZServer\Profiles" "-mod=@CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Community-Online-Tools;@VPPAdminTools;@Money Ruble;@TTL Classname Extractor;@QuickMoveItemsByCategory;@Bullet Stacking - More Ammo;@GraveCross;@Item Info;@Tactical Flava;@Imports From Tarkov;@GZ Equipment;@CJ187-LootChest;@DayZ Editor Loader"
+start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck "-BEpath=D:\SteamLibrary\steamapps\common\DayZServer\battleye" "-profiles=D:\SteamLibrary\steamapps\common\DayZServer\Profiles" "-mod=@CF;@Dabs Framework;@DayZ-Expansion-Licensed;@DayZ-Expansion-Bundle;@Community-Online-Tools;@VPPAdminTools;@Money Ruble;@TTL Classname Extractor;@QuickMoveItemsByCategory;@Bullet Stacking - More Ammo;@GraveCross;@Item Info;@Tactical Flava;@Imports From Tarkov;@GZ Equipment;@CJ187-LootChest;@DayZ Editor Loader;@Grimhold"
 ::Time in seconds before kill server process (14400 = 4 hours)
 timeout 14390
 taskkill /im DayZServer_x64.exe /F

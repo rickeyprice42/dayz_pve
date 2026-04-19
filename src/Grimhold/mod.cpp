@@ -1,0 +1,11 @@
+name = "Grimhold";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "Grimhold server mod";
+overview = "Core custom mod for the Grimhold DayZ server.";
+action = "";
+author = "Grimhold";
+authorID = "0";
+version = "0.1.0";

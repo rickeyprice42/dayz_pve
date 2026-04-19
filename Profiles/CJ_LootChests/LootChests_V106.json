@@ -5,6 +5,32 @@
     "RandomQuantity": 0,
     "LootChestsLocations": [
         {
+            "name": "Test",
+            "number": 3,
+            "pos": [
+                "3690.179199 402.024963 5986.445801|-17 0 0",
+                "3685.507568 402.024933 5981.916992|-107 0 0",
+                "3690.615723 402.024933 5987.318848|164 0 0"
+                
+            ],
+            "keyclass": "",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Brown_Large"
+            ],
+            "lootrandomize": 0,
+            "light": 1,
+            "loot": [
+                "LC_Table_Weapons_T3",
+                "LC_Table_vest_70",
+                "LC_Table_bhelmet_75",
+                "LC_Table_Optics",
+                "LC_Table_magazin_big"
+
+
+            ]
+        },
+        {
             "name": "Tisy Headquarter 1st Floor",
             "number": 9,
             "pos": [
@@ -2073,9 +2099,202 @@
             ]
         },
         {
-            "name": "LC_Table_Ammo",
+            "name": "LC_Table_magazin_big",
             "Loot": [
-                "AmmoBox_545x39_20Rnd"
+                "TF_Mag_SCAR_H_Drum50Rnd",
+                "Mag_STANAG_60Rnd",
+                "TF_Mag_FAL_Drum50Rnd_Black",
+                "TF_Mag_SCAR_H_30Rnd_Black",
+                "TF_Mag_AK74_60Rnd",
+                "Mag_AKM_Drum75Rnd"
+            ]
+        },
+        {
+            "name": "LC_Table_magazin_medium",
+            "Loot": [
+                "Mag_AK74_45Rnd",
+                "TF_Mag_AKM_Bakelit40Rnd",
+                "TF_Mag_AKM_Steel40Rnd",
+                "TF_Mag_AK74_45Rnd",
+                "TF_Mag_M4_PMAG40Rnd",
+                "TF_Mag_SCAR_H_25Rnd_Black",
+                "TF_Mag_M4_PMAG40Rnd_FDE",
+                "TF_Mag_SCAR_H_25Rnd_FDE",
+                "TF_Mag_SCAR_H_PMAG25Rnd_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_bag_low",
+            "Loot": [
+             "GZ_Backpack_LBT1476A_Green",
+             "GZ_Backpack_Pillbox_Black",
+             "GZ_Backpack_TakeDown_Black",
+             "GZ_Backpack_TakeDown_Multicam",
+             "GZ_Backpack_Hazard4_Black",
+             "GZ_Backpack_FlyyeMBSS_Green",
+             "GZ_Backpack_DayPack_Black",
+             "GZ_Backpack_Hazard4_Tan",
+             "GZ_Backpack_Hazard4_Green",
+             "TF_CamelBakBag_Tan",
+             "TF_CamelBakBag_Black",
+             "TF_CamelBakBag_Brown",
+             "TF_CamelBakBag_OD",
+             "TF_CamelBakBag_EMR",
+             "HuntingBag_Hannah",
+             "Attack2Bag_Green",
+             "Attack2Bag_Black",
+            "CoyoteBag_Green" 
+            ]
+        },
+        {
+            "name": "LC_Table_bag_med",
+            "Loot": [
+               "GZ_Backpack_Trooper35_Tan",
+               "GZ_Backpack_Trooper35_Green",
+               "GZ_Backpack_Trooper35_Black",
+               "GZ_Backpack_Gunslinger_Tan",
+               "GZ_Backpack_Gunslinger_Black",
+               "GZ_Backpack_Gunslinger_Green"
+            ]
+        },
+        {
+            "name": "LC_Table_bag_big",
+            "Loot": [
+               "GZ_Backpack_6SH118_Green",
+               "IFT_BP_Rush100",
+               "GZ_Backpack_T30_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_vest_70",
+            "Loot": [
+               "GZ_Vest_Tiger_MK3_Black",
+             "IFT_Vest_StichProfiV2",
+             "GZ_Vest_Tiger_MK3_Tan",
+             "IFT_Vest_StichDefenseM2",
+             "IFT_Vest_LBTSlick_Tan",
+             "IFT_Vest_LBTSlick_Olive",
+             "IFT_Vest_LBTSlick_Black",
+             "GZ_Vest_Tiger_MK3_Green",
+             "IFT_Vest_TagillaAVS",
+             "IFT_Vest_BigPipe",
+             "TF_JPCVest_Coyote",
+             "TF_JPCVest_MC",
+             "TF_PlateCarrierVest_Coyote",
+             "TF_PlateCarrierVest_EMR"
+            ]
+        },
+         {
+            "name": "LC_Table_bag_vest_75",
+            "Loot": [
+               "TF_IMTVVest_Khaki",
+               "TF_IMTVVest",
+               "TF_AVSVest_Coyote"
+            ]
+        },
+         {
+            "name": "LC_Table_bag_vest_78",
+            "Loot": [
+               "GZ_Vest_6B13_Black",
+               "GZ_Vest_Banshee_Black",
+               "GZ_Vest_Banshee_Green",
+               "GZ_Vest_MMAC_Green",
+               "GZ_Vest_Banshee_Tan",
+               "GZ_Vest_MMAC_Black",
+               "GZ_Vest_Zhuk6A_Green",
+               "GZ_Vest_Zhuk6A_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_bag_vest_80",
+            "Loot": [
+               "TF_LVMBAVVest_KH",
+               "TF_6B43Vest_EMR",
+               "TF_6B43Vest_6sh112_EMR"
+            ]
+        },
+        {
+            "name": "LC_Table_bag_vest_82",
+            "Loot": [
+               "GZ_Vest_Osprey_Black",
+               "GZ_Vest_SP_Mod2_Multicam",
+               "IFT_Vest_THORCRV"
+            ]
+        },
+        {
+            "name": "LC_Table_bag_vest_85",
+            "Loot": [
+               "GZ_Vest_6B43_PixelB",
+               "GZ_Vest_6B43_PixelG",
+               "GZ_Vest_IOTV_PixelBlack",
+               "GZ_Vest_IOTV_Multicam"
+            ]
+        },
+        {
+            "name": "LC_Table_bag_helmet_70",
+            "Loot": [
+               "GZ_Helmet_Bastion_Black",
+               "GZ_Helmet_Ulach_Green",
+               "GZ_Helmet_Ulach_Black",
+               "GZ_Helmet_KiverM_Green",
+               "GZ_Helmet_Ulach_Tan",
+               "GZ_Helmet_NeoSteel_Black"
+            ]
+        },
+         {
+            "name": "LC_Table_bhelmet_75",
+            "Loot": [
+               "IFT_Helmet_ULACH_Black",
+               "IFT_Helmet_ULACH_Tan",
+                "TF_6B47Helmet",
+               "TF_LSHZHelmet_OD",
+                "TF_MICH2000Helmet",
+               "TF_MICH2000Helmet_Khaku",
+                "TF_MICH2000Helmet_Black",
+               "GorkaHelmet",
+                "BallisticHelmet_BDU",
+               "BallisticHelmet_Green",
+               "GorkaHelmet_Black",
+               "BallisticHelmet_Black",
+               "GorkaHelmet_Green"
+            ]
+        },
+         {
+            "name": "LC_Table_helmet_80",
+            "Loot": [
+               "GZ_Helmet_AirFrame_Black",
+               "GZ_Helmet_FastMT_Black",
+               "GZ_Helmet_FastMT_Green",
+               "GZ_Helmet_Exfil_Tan",
+               "GZ_Helmet_Exfil_Black",
+               "GZ_Helmet_AirFrame_Green",
+               "GZ_Helmet_AirFrame_Tan"
+            ]
+        },
+         {
+            "name": "LC_Table_helmet_80+",
+            "Loot": [
+               "GZ_Helmet_AltynM2_Green",
+               "GZ_Helmet_Maska1sh_Green",
+               "GZ_Helmet_BNTI_Black",
+               "GZ_Helmet_Vulkan5_Black",
+               "TF_WeldingMask_Tagilla"
+            ]
+        },
+        {
+            "name": "LC_Table_bag_big",
+            "Loot": [
+               "GZ_Backpack_6SH118_Green",
+               "IFT_BP_Rush100",
+               "GZ_Backpack_T30_Black"
+            ]
+        },
+        {
+            "name": "LC_Table_bag_big",
+            "Loot": [
+               "GZ_Backpack_6SH118_Green",
+               "IFT_BP_Rush100",
+               "GZ_Backpack_T30_Black"
             ]
         }
     ]

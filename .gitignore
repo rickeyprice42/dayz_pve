@@ -48,6 +48,8 @@ transport_client.txt
 *.zip
 *.rar
 *.7z
+build/
+*.biprivatekey
 
 # Keep Profiles configs, but ignore runtime/cache data inside it
 Profiles/DataCache/

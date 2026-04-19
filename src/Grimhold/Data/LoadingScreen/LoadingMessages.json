@@ -1,0 +1,18 @@
+[
+  {
+    "message": "Welcome to Grimhold. Respect the PvE rules and help keep the server fair for everyone.",
+    "submitter": "Grimhold"
+  },
+  {
+    "message": "This loading screen uses the first custom Grimhold mod. More server features will arrive through this package.",
+    "submitter": "Grimhold"
+  },
+  {
+    "message": "Expansion settings, QoL tweaks and future custom systems will be grouped into one maintained Grimhold mod.",
+    "submitter": "Grimhold"
+  },
+  {
+    "message": "Current artwork source files are stored as PNG and converted into PAA during the build workflow for clients.",
+    "submitter": "Build note"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "MapName": "default",
+    "Path": [
+      "Grimhold/Data/LoadingScreen/grimhold_01.paa",
+      "Grimhold/Data/LoadingScreen/grimhold_02.paa",
+      "Grimhold/Data/LoadingScreen/grimhold_03.paa",
+      "Grimhold/Data/LoadingScreen/grimhold_04.paa"
+    ]
+  }
+]
