@@ -4,7 +4,6 @@
 
 ---
 
-```
 
 ❗ Важно:
 - В `DayZServer` запускается сервер
@@ -34,7 +33,7 @@ git pull origin main
 
 ```
 
-Затем ОБЯЗАТЕЛЬНО:
+ЛИБО:
 
 👉 запусти `update_server.bat`
 
@@ -43,12 +42,10 @@ git pull origin main
 # ⬆️ Как загружать изменения (ВАЖНО)
 
 Если ты что-то поменял:
-
 ```
 git add .
 git commit -m "описание изменений"
 git push origin main
-
 ```
 
 Пример:
@@ -77,12 +74,9 @@ git commit -m "changed loot balance"
 # 🔧 Автообновление сервера
 
 Запуск:
-
 ```
 update_server.bat
-
 ```
-
 Что он делает:
 1. Скачивает изменения
 2. Копирует в сервер
@@ -113,7 +107,6 @@ update_server.bat
 # 🆘 Если что-то не работает
 
 ## Ошибка при pull
-
 👉 Решение:
 ```
 git reset --hard
